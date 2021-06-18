@@ -1,0 +1,9 @@
+{
+    "name": "msq/diff",
+    "description": "Testing...",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
